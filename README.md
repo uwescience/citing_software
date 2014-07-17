@@ -7,6 +7,10 @@ software projects recommend being cited?
 This page contains some links for an informal discussion at the 
 [PDESoft 2014 workshop](http://www.pdesoft.uni-hd.de/)
 
+It would be great to add to this list and include also lists and ideas from
+other mathematical software communities.  Feel free to clone this repository
+and issue a pull request, or send things to rjl at uw.edu for inclusion.
+
 ### General Guides
 
 * [Software Sustainability Institute](http://software.ac.uk/so-exactly-what-software-did-you-use) 
