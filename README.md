@@ -42,6 +42,7 @@ This page contains some links for an informal discussion at the
 
 ### Venues for publishing software papers
 
+*  [Journal of open research software](http://openresearchsoftware.metajnl.com/) seems rather small (31 articles total)
 *  [Geoscientific Model Development (GMD)](http://www.geoscientific-model-development.net/home.html) has been used to publish short papers with
 current authors for each new release of software project.
 *  [Stackexchange discussion](http://scicomp.stackexchange.com/questions/660/venues-for-publishing-papers-that-emphasize-software)  with many more links
