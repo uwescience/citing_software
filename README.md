@@ -56,3 +56,11 @@ current authors for each new release of software project.
   that the papers announcing 8.0 and 8.1 were two versions of the same paper,
   rather than two distinct papers as was desired.)
 
+### Publishing venues in other fields
+
+* [Journal of Statistical Software](http://www.jstatsoft.org/)
+* [The Stata Journal](http://www.stata-journal.com/)
+* Examples of journal papers announcing releases:
+  * [Second Data release of Sloan Digital Sky Survey](http://iopscience.iop.org/1538-3881/128/1/502/pdf/1538-3881_128_1_502.pdf)
+  * [Sixth Data release of Sloan Digital Sky Survey](http://iopscience.iop.org/0067-0049/175/2/297/pdf/0067-0049_175_2_297.pdf)
+  * [The ALPS Project release 2.0](http://iopscience.iop.org/1742-5468/2011/05/P05001) -- [arXiv version](http://arxiv.org/pdf/1101.2646.pdf)
