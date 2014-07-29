@@ -64,3 +64,7 @@ current authors for each new release of software project.
   * [Second Data release of Sloan Digital Sky Survey](http://iopscience.iop.org/1538-3881/128/1/502/pdf/1538-3881_128_1_502.pdf)
   * [Sixth Data release of Sloan Digital Sky Survey](http://iopscience.iop.org/0067-0049/175/2/297/pdf/0067-0049_175_2_297.pdf)
   * [The ALPS Project release 2.0](http://iopscience.iop.org/1742-5468/2011/05/P05001) -- [arXiv version](http://arxiv.org/pdf/1101.2646.pdf)
+
+### Other relevant links
+
+* [NSF Dear Colleague letter on data/software citation](http://www.nsf.gov/pubs/2014/nsf14059/nsf14059.jsp)
